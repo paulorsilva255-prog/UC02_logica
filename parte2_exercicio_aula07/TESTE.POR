@@ -1,5 +1,6 @@
 programa {
   funcao inicio() {
+    // jhfjhfjkfkjh
               inteiro n1, n2, subtrair, multiplicar, dividir, somar
     cadeia operacao
     escreva("Insira um número: ")
